@@ -1,0 +1,7 @@
+[general]
+name=Panoramatická navigace
+description=Procházejte uzly panoramat pomocí šipek a kolečka myši. Výběr se zobrazí i v atributové tabulce.
+version=1.5
+qgisMinimumVersion=3.0
+author=Jan Polehla
+email=jan.polehla@zlinskykraj.cz
