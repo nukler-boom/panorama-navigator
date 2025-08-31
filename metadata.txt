@@ -1,7 +1,11 @@
 [general]
-name=Panoramatická navigace
-description=Procházejte uzly panoramat pomocí šipek a kolečka myši. Výběr se zobrazí i v atributové tabulce.
+name=Panorama Navigator
+description=Browse panoramatic photo nodes with the scroll wheel instead of clicking them one by one, requires Panorama Viewer plugin.
 version=1.5
 qgisMinimumVersion=3.0
 author=Jan Polehla
 email=jan.polehla@zlinskykraj.cz
+repository=https://github.com/nukler-boom/panorama-navigator
+icon=icon.png
+experimental=False
+depracted=False
