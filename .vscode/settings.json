@@ -1,9 +1,0 @@
-{
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python-envs.pythonProjects": [],
-
-    "python.defaultInterpreterPath": "C:\\OSGeo4W\\bin\\python.exe",
-    "python.analysis.extraPaths": [
-        "C:\\OSGeo4W\\apps\\qgis\\python"
-    ]
-}
